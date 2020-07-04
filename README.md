@@ -18,6 +18,7 @@ Assuming ~1GB/sec SSD
 
 ![Visual representation of latencies](https://git.noohi.org/amirmnoohi/latency-numbers/-/raw/master/pic.png)
 
+---
 
 Lets multiply all these durations by a billion:
 
