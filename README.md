@@ -16,13 +16,7 @@
 
 Assuming ~1GB/sec SSD
 
-![Visual representation of latencies](http://i.imgur.com/k0t1e.png)
-
-Visual chart provided by [ayshen](https://gist.github.com/ayshen)
-
-Data by [Jeff Dean](http://research.google.com/people/jeff/)
-
-Originally by [Peter Norvig](http://norvig.com/21-days.html#answers)
+![Visual representation of latencies](https://git.noohi.org/amirmnoohi/latency-numbers/-/raw/master/pic.png)
 
 
 Lets multiply all these durations by a billion:
